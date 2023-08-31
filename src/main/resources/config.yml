@@ -1,0 +1,3 @@
+password: "naknak"
+commands-after-first-join:
+  - "lp user %player_name% parent add spieler"
